@@ -1,0 +1,28 @@
+# 构建产物
+build/
+dist/
+*.dll
+*.zip
+
+# 日志 / 调试临时文件
+*.log
+dbg.txt
+selftest_result.txt
+
+# 开发工具 / IDE
+.workbuddy/
+.vscode/
+.idea/
+
+# 根目录调试截图（docs/ 下已保留正式文档图）
+/about_dialog.png
+/about_render.png
+/donate_zoom.png
+/main_screenshot.png
+/persp_mode.png
+/pin_checked.png
+/screenshot_dark.png
+/settings_render.png
+/test_persp.png
+/test_selftest.png
+/selftest_saved.png

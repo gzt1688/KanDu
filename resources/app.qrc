@@ -1,0 +1,8 @@
+<!DOCTYPE RCC>
+<!-- 收款码等随 exe 分发的静态资源 -->
+<RCC version="1.0">
+    <qresource prefix="/res">
+        <file alias="donate_wechat.png">img/donate_wechat.png</file>
+        <file alias="donate_alipay.png">img/donate_alipay.png</file>
+    </qresource>
+</RCC>

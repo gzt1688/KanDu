@@ -1,0 +1,3 @@
+source 1170x642
+donate_wechat.png  360x430  65 KB
+donate_alipay.png  360x437  79 KB
