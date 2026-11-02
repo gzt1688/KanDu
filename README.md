@@ -1,5 +1,13 @@
 # KanDu
 
+<p align="center">
+  <img src="https://img.shields.io/badge/platform-Windows-0078d4" alt="Platform: Windows" />
+  <img src="https://img.shields.io/github/license/gzt1688/KanDu" alt="License" />
+  <img src="https://img.shields.io/github/v/release/gzt1688/KanDu" alt="Latest Release" />
+</p>
+
+> **Like KanDu? Please ⭐ Star this repo!**
+
 A clean, fast, minimalist image viewer for Windows.
 
 ## Features
